@@ -2,7 +2,8 @@
 
 This notebook implements a Kolmogorov–Arnold Network (KAN)-enhanced U-Net architecture for brain tumor segmentation using 3D MRI data.
 
-📌 Key Components:
+
+Key Components:
 Environment Setup: Installs required libraries like MONAI, NiBabel, and Weights & Biases (W&B).
 
 Data Preparation:
